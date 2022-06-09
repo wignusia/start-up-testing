@@ -1,0 +1,9 @@
+commend = input('>')
+if commend =='help' :
+    print('start-to start the car')
+    print('stop-to stop the car')
+    print('quit-to exit')
+elif commend =='start' :
+    print('Car started ... Ready to go')
+else:
+   print('I dont understand that..')
